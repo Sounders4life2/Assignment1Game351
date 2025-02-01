@@ -4,9 +4,10 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public float speed = 5.0f;
-    private float rotateInput;
-    private float forwardInput;
+    public float movSpeed = 5.0f;
+    public float rotSpeed = 15.0f;
+    private float horizInput;
+    private float vertiInput;
 
 
     // Start is called before the first frame update
@@ -19,11 +20,11 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         //update rotation and forward movement with keyboard inputs
-        rotateInput = Input.GetAxis("Horizontal");
-        forwardInput = Input.GetAxis("Vertical");
+        horizInput = Input.GetAxis("Horizontal");
+        vertiInput = Input.GetAxis("Vertical");
 
         //move and rotate the player
-        transform.Translate(Vector3.forward * Time.deltaTime * speed * forwardInput);
-        transform.Rotate(Vector3.right * Time.deltaTime * speed * forwardInput);
+        transform.Translate(Vector3.forward * Time.deltaTime * movSpeed * vertiInput);
+        transform.Rotate(0, Time.deltaTime * rotSpeed * horizInput, 0);
     }
 }
