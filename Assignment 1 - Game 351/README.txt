@@ -3,6 +3,7 @@ GAME 351 Assignment 1
 Team Members:
 Clovis Glasner
 Tyler Lawson
+Citlali Lopez
 
 Implementations:
 Movable character with following camera
@@ -26,3 +27,6 @@ Assets used:
 Robot Kyle by Unity Technologies
 Low poly trees - free nature pack
 Realistic Terrain Textures FREE
+Lowpoly Wells - 3dfancy
+Low Poly Fantasy Medieval Village lite -just create
+PolyArt ~ Ancient Village Pack - Render island
