@@ -2,6 +2,7 @@ GAME 351 Assignment 1
 
 Team Members:
 Clovis Glasner
+Tyler Lawson
 
 Implementations:
 Movable character with following camera
@@ -23,3 +24,5 @@ Universal Render Pipline
 
 Assets used:
 Robot Kyle by Unity Technologies
+Low poly trees - free nature pack
+Realistic Terrain Textures FREE
