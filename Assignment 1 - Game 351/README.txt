@@ -4,6 +4,7 @@ Team Members:
 Clovis Glasner
 Tyler Lawson
 Citlali Lopez
+Arlene Huizar
 
 Implementations:
 Movable character with following camera
@@ -30,3 +31,4 @@ Realistic Terrain Textures FREE
 Lowpoly Wells - 3dfancy
 Low Poly Fantasy Medieval Village lite -just create
 PolyArt ~ Ancient Village Pack - Render island
+
