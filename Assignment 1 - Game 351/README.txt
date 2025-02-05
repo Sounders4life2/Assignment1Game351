@@ -12,7 +12,7 @@ Terrain made with paint terrain tool decorated with:
  -Trees and folliage
  -A castle built with ProBuilder
  -A small village
- -Water features
+ -A crash site
 
 Controls:
 W/A or Up/Down to move forward and backward
